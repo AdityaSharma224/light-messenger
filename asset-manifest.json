@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/light-messenger/static/css/main.37448acd.chunk.css",
+    "main.js": "/light-messenger/static/js/main.b9f66dfd.chunk.js",
+    "main.js.map": "/light-messenger/static/js/main.b9f66dfd.chunk.js.map",
+    "runtime-main.js": "/light-messenger/static/js/runtime-main.ce56f8d3.js",
+    "runtime-main.js.map": "/light-messenger/static/js/runtime-main.ce56f8d3.js.map",
+    "static/js/2.c124d3fa.chunk.js": "/light-messenger/static/js/2.c124d3fa.chunk.js",
+    "static/js/2.c124d3fa.chunk.js.map": "/light-messenger/static/js/2.c124d3fa.chunk.js.map",
+    "index.html": "/light-messenger/index.html",
+    "precache-manifest.52cca42284daee77073174079e837550.js": "/light-messenger/precache-manifest.52cca42284daee77073174079e837550.js",
+    "service-worker.js": "/light-messenger/service-worker.js",
+    "static/css/main.37448acd.chunk.css.map": "/light-messenger/static/css/main.37448acd.chunk.css.map",
+    "static/js/2.c124d3fa.chunk.js.LICENSE.txt": "/light-messenger/static/js/2.c124d3fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce56f8d3.js",
+    "static/js/2.c124d3fa.chunk.js",
+    "static/css/main.37448acd.chunk.css",
+    "static/js/main.b9f66dfd.chunk.js"
+  ]
+}
